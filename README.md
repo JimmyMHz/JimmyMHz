@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @JimmyMHz
+- 👋 Hi, I’m @Jimmy Hz
 - 👀 I’m interested in sustainability, water quality, and renewable energy
 - 🌱 I’m currently learning environmental engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 JimmyMHz/JimmyMHz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
